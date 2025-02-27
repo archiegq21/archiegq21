@@ -1,7 +1,7 @@
 
 ## 🚀 Hi, I'm Archie
 
-Senior Mobile Developer for **Unblk**!
+Senior Mobile Developer!
 
 [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005769496141)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/archiieeme/)
